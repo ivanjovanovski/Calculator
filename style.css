@@ -1,0 +1,19 @@
+input {
+    
+    width:100px;
+    height:80px;
+    font-size:75px;
+    border-radius:10px;
+    margin:5px;
+    background-color:#000;
+    color:#fff;
+    border-style:groove;
+    
+    
+}
+
+calform{
+    width:100px;
+    margin-left:225px;
+    margin-top:20px;
+}
